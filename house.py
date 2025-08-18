@@ -4,7 +4,7 @@ screen = turtle.Screen()
 screen.bgcolor("cornflower blue")
 
 t = turtle.Turtle()
-t.speed(0)
+t.speed(6)
 t.turtlesize(0.1, 0.1, 0.1)
 
 #house base
